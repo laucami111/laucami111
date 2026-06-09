@@ -14,6 +14,12 @@ Una página web de catálogo responsiva con un diseño limpio y moderno.
 * [Ver repositorio aquí](https://github.com/laucami111/tienda-motos)
 
 ---
+### Sistema de Gestión de Emergencias Hospitalarias
+Una plataforma web para optimizar la atención en urgencias mediante metodologías ágiles (APF, XP, Lean).
+Tecnologías: Node.js, Express, JavaScript, XAMPP.
+
+* [Ver repositorio aquí](https://github.com/laucami111/SISTEMA-DE-GESTION-DE-EMERGENCIAS-HOSPITALARIAS)
+
 
 ### 🃏 Proyecto de cartas (La princesa y el sapo):
 Un juego interactivo, en donde al darle clic a las cartas, aparece la descripción de cada personaje.
