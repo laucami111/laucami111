@@ -17,6 +17,7 @@ Una página web de catálogo responsiva con un diseño limpio y moderno.
 ### Sistema de Gestión de Emergencias Hospitalarias
 Una plataforma web para optimizar la atención en urgencias mediante metodologías ágiles (APF, XP, Lean).
 Tecnologías: Node.js, Express, JavaScript, XAMPP.
+<img src="[https://github.com/laucami111/tienda-motos/blob/main/ducati3.jpg?raw=true](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1IPaSFr7cHljC1gFH60_tMZO7RWLrwS1YZg&s)" width="350px">
 
 * [Ver repositorio aquí](https://github.com/laucami111/SISTEMA-DE-GESTION-DE-EMERGENCIAS-HOSPITALARIAS)
 
