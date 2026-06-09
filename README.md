@@ -17,6 +17,7 @@ Una página web de catálogo responsiva con un diseño limpio y moderno.
 ### Sistema de Gestión de Emergencias Hospitalarias
 Una plataforma web para optimizar la atención en urgencias mediante metodologías ágiles (APF, XP, Lean).
 Tecnologías: Node.js, Express, JavaScript, XAMPP.
+
 <img src="https://png.pngtree.com/png-vector/20260515/ourmid/pngtree-ambulance-vehicle-medical-emergency-icon-illustration-vector-png-image_19265328.webp" width="350px">
 
 * [Ver repositorio aquí](https://github.com/laucami111/SISTEMA-DE-GESTION-DE-EMERGENCIAS-HOSPITALARIAS)
